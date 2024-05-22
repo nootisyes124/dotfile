@@ -1,0 +1,14 @@
+[Global]
+LookAndFeelSet=org.kde.breezedark.desktop
+
+[Style]
+MenuOpacity=25
+
+[TitleBarOpacity]
+ActiveTitleBarOpacity=25
+InactiveTitleBarOpacity=25
+OpaqueMaximizedTitleBars=false
+
+[Windeco]
+ButtonShape=ShapeFullHeightRectangle
+CornerRadius=2.000000000000001
